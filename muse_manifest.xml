@@ -1,0 +1,133 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Decima-Tech.dx.am" resolutions="1x" timestamp="1542160024110">
+  <folder name="css">
+    <file name="site_global.css" crc="66978099"/>
+    <file name="master_a-master.css" crc="4053565498" ref="photograhpy:seo:brand-creation---mangement:wifi-access-point:back-end:access-control:sql-database:video-editing:front-end:videography:social-media-mangement:hardwired-internet:surveillance-systems:brand-identity:networking:logo:special-effects:motion-graphics:index:video-production:security:web-development:graphic-design:photovideo"/>
+    <file name="photograhpy.css" crc="3897247948" ref="photograhpy"/>
+    <file name="seo.css" crc="3897247948" ref="seo"/>
+    <file name="brand-creation---mangement.css" crc="3897247948" ref="brand-creation---mangement"/>
+    <file name="wifi-access-point.css" crc="3897247948" ref="wifi-access-point"/>
+    <file name="back-end.css" crc="3897247948" ref="back-end"/>
+    <file name="access-control.css" crc="3897247948" ref="access-control"/>
+    <file name="sql-database.css" crc="3897247948" ref="sql-database"/>
+    <file name="video-editing.css" crc="3897247948" ref="video-editing"/>
+    <file name="front-end.css" crc="3897247948" ref="front-end"/>
+    <file name="videography.css" crc="3897247948" ref="videography"/>
+    <file name="social-media-mangement.css" crc="3897247948" ref="social-media-mangement"/>
+    <file name="hardwired-internet.css" crc="3897247948" ref="hardwired-internet"/>
+    <file name="surveillance-systems.css" crc="3897247948" ref="surveillance-systems"/>
+    <file name="brand-identity.css" crc="3897247948" ref="brand-identity"/>
+    <file name="networking.css" crc="3897247948" ref="networking"/>
+    <file name="logo.css" crc="3897247948" ref="logo"/>
+    <file name="special-effects.css" crc="3897247948" ref="special-effects"/>
+    <file name="motion-graphics.css" crc="3897247948" ref="motion-graphics"/>
+    <file name="index.css" crc="4045899652" ref="index"/>
+    <file name="video-production.css" crc="3897247948" ref="video-production"/>
+    <file name="security.css" crc="3897247948" ref="security"/>
+    <file name="web-development.css" crc="3897247948" ref="web-development"/>
+    <file name="graphic-design.css" crc="3897247948" ref="graphic-design"/>
+    <file name="photovideo.css" crc="3897247948" ref="photovideo"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:networking:hardwired-internet:wifi-access-point:security:surveillance-systems:access-control:graphic-design:brand-identity:social-media-mangement:brand-creation---mangement:photovideo:video-production:logo:motion-graphics:video-editing:special-effects:photograhpy:videography:web-development:seo:front-end:back-end:sql-database"/>
+    <file name="museutils.js" crc="4232573551" ref="index:networking:hardwired-internet:wifi-access-point:security:surveillance-systems:access-control:graphic-design:brand-identity:social-media-mangement:brand-creation---mangement:photovideo:video-production:logo:motion-graphics:video-editing:special-effects:photograhpy:videography:web-development:seo:front-end:back-end:sql-database"/>
+    <file name="whatinput.js" crc="86476730" ref="index:networking:hardwired-internet:wifi-access-point:security:surveillance-systems:access-control:graphic-design:brand-identity:social-media-mangement:brand-creation---mangement:photovideo:video-production:logo:motion-graphics:video-editing:special-effects:photograhpy:videography:web-development:seo:front-end:back-end:sql-database"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:networking:hardwired-internet:wifi-access-point:security:surveillance-systems:access-control:graphic-design:brand-identity:social-media-mangement:brand-creation---mangement:photovideo:video-production:logo:motion-graphics:video-editing:special-effects:photograhpy:videography:web-development:seo:front-end:back-end:sql-database"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:networking:hardwired-internet:wifi-access-point:security:surveillance-systems:access-control:graphic-design:brand-identity:social-media-mangement:brand-creation---mangement:photovideo:video-production:logo:motion-graphics:video-editing:special-effects:photograhpy:videography:web-development:seo:front-end:back-end:sql-database"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:networking:hardwired-internet:wifi-access-point:security:surveillance-systems:access-control:graphic-design:brand-identity:social-media-mangement:brand-creation---mangement:photovideo:video-production:logo:motion-graphics:video-editing:special-effects:photograhpy:videography:web-development:seo:front-end:back-end:sql-database"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:networking:hardwired-internet:wifi-access-point:security:surveillance-systems:access-control:graphic-design:brand-identity:social-media-mangement:brand-creation---mangement:photovideo:video-production:logo:motion-graphics:video-editing:special-effects:photograhpy:videography:web-development:seo:front-end:back-end:sql-database"/>
+    <file name="require.js" crc="4234670167" ref="index:networking:hardwired-internet:wifi-access-point:security:surveillance-systems:access-control:graphic-design:brand-identity:social-media-mangement:brand-creation---mangement:photovideo:video-production:logo:motion-graphics:video-editing:special-effects:photograhpy:videography:web-development:seo:front-end:back-end:sql-database"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u2403.php" crc="118485702" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="decima logo 001.png" crc="96551632" seo="true" ref="index:networking:hardwired-internet:wifi-access-point:security:surveillance-systems:access-control:graphic-design:brand-identity:social-media-mangement:brand-creation---mangement:photovideo:video-production:logo:motion-graphics:video-editing:special-effects:photograhpy:videography:web-development:seo:front-end:back-end:sql-database">
+      <caption webpage="access-control" alt=""/>
+      <caption webpage="motion-graphics" alt=""/>
+      <caption webpage="sql-database" alt=""/>
+      <caption webpage="brand-identity" alt=""/>
+      <caption webpage="brand-creation---mangement" alt=""/>
+      <caption webpage="social-media-mangement" alt=""/>
+      <caption webpage="front-end" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="wifi-access-point" alt=""/>
+      <caption webpage="back-end" alt=""/>
+      <caption webpage="web-development" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="photovideo" alt=""/>
+      <caption webpage="seo" alt=""/>
+      <caption webpage="video-editing" alt=""/>
+      <caption webpage="video-production" alt=""/>
+      <caption webpage="photograhpy" alt=""/>
+      <caption webpage="networking" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="surveillance-systems" alt=""/>
+      <caption webpage="hardwired-internet" alt=""/>
+      <caption webpage="special-effects" alt=""/>
+      <caption webpage="security" alt=""/>
+    </file>
+    <file name="background no logo.jpg" crc="92544708" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="network.jpg" crc="4060651593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="2007.jpg" crc="517520468" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="earth triangle dots-crop-u1817.jpg" crc="3851941648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="late night.jpg" crc="113389631" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="monitoring2.jpg" crc="3791894526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="training.png" crc="4247487722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="industrial-services.png" crc="3787474136" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ethernet cables2.jpg" crc="64799712" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="decima logo color.png" crc="477331206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="265163890" seo="true" mt="1542160000447" redirect="true"/>
+  <file name="networking.html" crc="270222091" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="hardwired-internet.html" crc="3931628990" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="wifi-access-point.html" crc="3894337485" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="security.html" crc="125693915" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="surveillance-systems.html" crc="4011551059" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="access-control.html" crc="151418533" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="graphic-design.html" crc="55783977" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="brand-identity.html" crc="449781943" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="social-media-mangement.html" crc="81624575" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="brand-creation---mangement.html" crc="3984310616" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="photovideo.html" crc="398150839" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="video-production.html" crc="489813034" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="logo.html" crc="4290656697" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="motion-graphics.html" crc="517460266" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="video-editing.html" crc="4189597798" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="special-effects.html" crc="4206380171" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="photograhpy.html" crc="72379924" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="videography.html" crc="344295321" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="web-development.html" crc="421920587" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="seo.html" crc="4060521754" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="front-end.html" crc="3786103519" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="back-end.html" crc="3811357759" seo="true" mt="1542159133639" redirect="true"/>
+  <file name="sql-database.html" crc="283329074" seo="true" mt="1542159133639" redirect="true"/>
+</manifest>
